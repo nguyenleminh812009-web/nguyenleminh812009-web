@@ -13,7 +13,7 @@ An aspiring Computer Science & Data Science student with a strong background in 
 - **Tools & Platforms:** Google Colab, Jupyter Notebook, GitHub, Git
 
 ## 📂 Key Projects
-### 1. [GCI World: Consumer Intelligence & Machine Learning](LINK_ĐẾN_REPO_DỰ_ÁN_Ở_BƯỚC_3)
+### 1. [GCI World: Consumer Intelligence & Machine Learning](https://github.com/nguyenleminh812009-web/gci-world-data-science)
 - Processed and analyzed structured business/consumer datasets using Pandas and NumPy.
 - Developed predictive machine learning models using Scikit-Learn for an in-class Kaggle-style competition.
 - Achieved rigorous hands-on experience in Feature Engineering and Hyperparameter Tuning.
