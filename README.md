@@ -17,7 +17,7 @@ An aspiring Computer Science & Data Science student with a strong background in 
 - Processed and analyzed structured business/consumer datasets using Pandas and NumPy.
 - Developed predictive machine learning models using Scikit-Learn for an in-class Kaggle-style competition.
 - Achieved rigorous hands-on experience in Feature Engineering and Hyperparameter Tuning.
-###### 1. D3W: Driver Drowsiness Detection & Warning Device
+### 2. [D3W: Driver Drowsiness Detection & Warning Device](https://github.com/nguyenleminh812009-web/D3W-Driver-Drowsiness-Detection-and-Warning-Device)
 
 * Engineered an IoT edge system combining an NVIDIA Jetson Nano GPU, IMX219-77 camera, and 3W speaker module running on Ubuntu Linux.
 * Developed real-time facial landmark detection and Eye Aspect Ratio (EAR) algorithm using Python, OpenCV, TensorFlow, and Keras.
