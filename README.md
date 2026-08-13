@@ -9,7 +9,7 @@ An aspiring Computer Science & Data Science student with a strong background in 
 
 ## 🛠️ Tech Stack & Tools
 - **Languages:** Python, SQL
-- **Data Science Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+- **Data Science Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, LightGBM
 - **Tools & Platforms:** Google Colab, Jupyter Notebook, GitHub, Git
 
 ## 📂 Key Projects
